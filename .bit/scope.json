@@ -1,0 +1,9 @@
+{
+    "name": "generator-example",
+    "remotes": {},
+    "version": "1.0.106",
+    "lanes": {
+        "current": "master",
+        "tracking": []
+    }
+}
